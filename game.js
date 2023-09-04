@@ -28,7 +28,7 @@ let questions = [
         answer: 2
     },
     {
-        question: "What is 2^2?",
+        question: "What is 2^3?",
         choice1 : '2',
         choice2 : '4',
         choice3 : '8',
