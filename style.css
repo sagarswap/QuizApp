@@ -81,3 +81,16 @@ h2 {
     transform: none;
     background: rgb(119, 119, 119);
 }
+
+#highscore-btn {
+    background: rgb(255, 254, 14);
+}
+
+#highscore-btn:hover {
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(255, 255, 0, 0.5);
+}
+
+.fa-crown {
+    font-size: 2.5rem;
+    margin-left: 1rem;
+}
